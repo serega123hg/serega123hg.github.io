@@ -1,0 +1,8 @@
+* {
+  outline: none;
+}
+.App {
+  box-sizing: border-box;
+  width: 100%;
+  font-family: "Roboto";
+}
